@@ -5,6 +5,6 @@
 
 ### ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
-### Hello!👋🏻 My name is **Christine Joy Esparas**.
+Hello!👋🏻 My name is **Christine Joy Esparas**.
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
