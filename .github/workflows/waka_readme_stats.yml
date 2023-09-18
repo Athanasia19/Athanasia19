@@ -13,7 +13,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: Athanasia19/waka_readme_stats@main
+      - uses: athanasia19/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.Wakatime_Api_Key }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
