@@ -12,4 +12,4 @@ I hope you like it 𓆩♡𓆪
 
 
 ## <img height="40" src="https://github.com/Athanasia19/Athy/blob/main/assets/KIRBY_WALKING.gif"/> Reach out
-### <img height="20" src="https://github.com/Athanasia19/Athy/blob/main/assets/facebook.png"/> <img height="20" src="https://github.com/Athanasia19/Athy/blob/main/assets/instagram.png"/> <img height="20" src="https://github.com/Athanasia19/Athy/blob/main/assets/linkedin.png"/> <img height="15" src="https://github.com/Athanasia19/Athy/blob/main/assets/X.png"/> <img height="25" src="https://github.com/Athanasia19/Athy/blob/main/assets/DISCORD.png"/>
+### <img height="20" src="https://github.com/Athanasia19/Athy/blob/main/assets/facebook.png"/> <img height="20" src="https://github.com/Athanasia19/Athy/blob/main/assets/instagram.png"/> <img height="20" src="https://github.com/Athanasia19/Athy/blob/main/assets/linkedin.png"/> <img height="15" src="https://github.com/Athanasia19/Athy/blob/main/assets/X.png"/> <img height="22" src="https://github.com/Athanasia19/Athy/blob/main/assets/DISCORD.png"/>
