@@ -1,4 +1,4 @@
-# Hello!👋 Welcome to my Profile
+## Hello!👋 Welcome to my Profile
 <div align="center">
 <img max-width="800" src="https://github.com/Athanasia19/Athy/blob/main/assets/header.gif"/>
 </div>
