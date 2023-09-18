@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@main
         
       - name: Use Waka Readme Stats Action   
-        uses: Athanasia19/Athanasia19@<72f2cec99f417b1a1c5e2e88945068983b7965f9>
+        uses: Athanasia19/Athanasia19@<fb161744c05974e2adcce7198949948acd70a5e8>
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
