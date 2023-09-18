@@ -5,7 +5,7 @@
 
 ### ![](https://komarev.com/ghpvc/?username=Athanasia19&style=flat&color=7094dc) [![Gmail Badge](https://img.shields.io/badge/-Gmail-7094dc?style=flat&logo=Gmail&logoColor=white&link=mailto:christinejoy.esparas@tup.edu.ph)](mailto:christinejoy.esparas@tup.edu.ph)
 
-### ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+### ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 Hello!👋🏻 My name is **Christine Joy Esparas**. I am from the Technological University of the Philippines Taguig taking a BS in Information Technology. </>
 
 I'm currently working on this page so you'll get to briefly know about me before you scan my projects ๋࣭ ⭑
