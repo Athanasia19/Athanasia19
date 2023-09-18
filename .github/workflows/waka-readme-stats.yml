@@ -4,16 +4,17 @@ on:
   schedule:
     - cron: '30 18 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-     - name: Checkout Repository
+      - name: Checkout Repository
         uses: actions/checkout@main
         
-     - name: Use Waka Readme Stats Action   
-       uses:  Athanasia19/Athanasia19@main
+      - name: Use Waka Readme Stats Action   
+        uses: Athanasia19/Athanasia19@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
