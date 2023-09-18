@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: Athanasia19/waka-readme-stats@main
         with:
-          WAKATIME_API_KEY: ${{ secrets.Wakatime_Api_Key }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
