@@ -11,4 +11,5 @@ I'm currently working on this page so you'll get to briefly know about me before
 I hope you like it 𓆩♡𓆪
 
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+## <img height="40" src="https://github.com/Athanasia19/Athy/blob/main/assets/KIRBY_WALKING.gif"/> Reach out
+### <img height="20" src="https://github.com/Athanasia19/Athy/blob/main/assets/facebook.png"/><img height="20" src="https://github.com/Athanasia19/Athy/blob/main/assets/instagram.png"/><img height="20" src="https://github.com/Athanasia19/Athy/blob/main/assets/linkedin.png"/><img height="20" src="https://github.com/Athanasia19/Athy/blob/main/assets/X.png"/><img height="20" src="https://github.com/Athanasia19/Athy/blob/main/assets/DISCORD.png"/>
