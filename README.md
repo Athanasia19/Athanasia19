@@ -21,9 +21,7 @@ I hope you like it 𓆩♡𓆪
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2047%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-319-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -33,7 +31,7 @@ I hope you like it 𓆩♡𓆪
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
