@@ -21,9 +21,7 @@ I hope you like it 𓆩♡𓆪
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2047%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-319-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -33,7 +31,7 @@ I hope you like it 𓆩♡𓆪
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -79,11 +77,7 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+
 ```
 
 <!--END_SECTION:waka-->
