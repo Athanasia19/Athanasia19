@@ -59,7 +59,7 @@ Sunday                   19 commits          █░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Madrid
+🕑︎ Time Zone: Manila/Philippines
 
 💬 Programming Languages: 
 No Activity Tracked This Week
